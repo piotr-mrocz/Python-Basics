@@ -1,5 +1,13 @@
+RUN PYTHON CODE
+
 1) Go into Python's console: python (in terminal)
 
 2) Exit python's console: exit()
 
 3) Run code in terminal: python fileName.py
+
+
+
+INSTALL PACKAGE
+
+pip install package_name
