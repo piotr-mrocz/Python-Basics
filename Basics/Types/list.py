@@ -44,3 +44,6 @@ list = list1 + list2
 print(list)
 
 print(list * 2)
+
+# add to list
+list.append(5)
